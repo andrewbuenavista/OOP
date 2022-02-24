@@ -10,7 +10,7 @@ def main():
     studentone.set_registration("sr")
 
     print(studentone.get_age())
-    print("Your registration date is:",studentone.get_registration())
+    print(studentone.get_registration())
 
 
 

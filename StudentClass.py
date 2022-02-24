@@ -34,4 +34,4 @@ class Student:
         return self.__age
 
     def get_registration(self):
-        return self.__regdate
+        return "Your registratoin date is: " + self.__regdate
